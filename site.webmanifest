@@ -1,0 +1,10 @@
+{
+  "name": "Ruhi Wholesale",
+  "short_name": "Ruhi Wholesale",
+  "description": "Wholesale ladies T-shirts from Gandhi Nagar, Delhi. Minimum 60 pieces.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#0b1f3a",
+  "icons": [{"src": "/favicon.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}]
+}
