@@ -1,0 +1,122 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "Organization",
+        "ClothingStore",
+        "LocalBusiness"
+      ],
+      "@id": "https://ruhiwholesale.store/#business",
+      "name": "Ruhi Wholesale",
+      "alternateName": [
+        "Ruhi",
+        "Ruhi Wholesale",
+        "RuhiWholesale",
+        "Ruhi-Wholesale",
+        "Ruhi Singh",
+        "RuhiSingh",
+        "Ruhi Singh Wholesale",
+        "Ruhi Singh Clothing",
+        "Ruhi Clothing",
+        "RuhiClothing",
+        "Ruhi Ladies Wear",
+        "RuhiLadiesWear",
+        "Ruhi Ladies Clothing",
+        "RuhiLadiesClothing",
+        "Ruhi Apparel",
+        "RuhiApparel",
+        "Ruhi Utensils",
+        "RuhiUtensils",
+        "Ruhi Textiles",
+        "RuhiTextiles",
+        "Ruhee",
+        "Ruhee Wholesale",
+        "Ruhee Clothing",
+        "Roohi",
+        "Roohi Wholesale",
+        "Ruhi Wholesale Delhi",
+        "Ruhi Ladies Wear Wholesale",
+        "Ruhi Clothing Wholesale",
+        "Ruhi Bulk Supplier",
+        "Ruhi Wholesale Supplier",
+        "Ruhi T-Shirts Wholesale"
+      ],
+      "url": "https://ruhiwholesale.store/",
+      "logo": "https://ruhiwholesale.store/favicon.png",
+      "image": "https://ruhiwholesale.store/favicon.png",
+      "telephone": "+91 9871149400",
+      "description": "B2B wholesale supplier of ladies T-shirts and clothing in Gandhi Nagar, Delhi: Indian Tensils, Poly Cotton T-Shirts and Imported Tensils. Minimum 60 pieces per style.",
+      "founder": {
+        "@type": "Person",
+        "name": "Ruhi Singh",
+        "alternateName": [
+          "RuhiSingh"
+        ]
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Gandhi Nagar",
+        "addressRegion": "Delhi",
+        "addressCountry": "IN"
+      },
+      "areaServed": {
+        "@type": "Country",
+        "name": "India"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91 9871149400",
+        "contactType": "sales",
+        "areaServed": "IN",
+        "availableLanguage": [
+          "en",
+          "hi"
+        ]
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://ruhiwholesale.store/#website",
+      "url": "https://ruhiwholesale.store/",
+      "name": "Ruhi Wholesale",
+      "alternateName": [
+        "Ruhi",
+        "Ruhi Wholesale",
+        "RuhiWholesale",
+        "Ruhi-Wholesale",
+        "Ruhi Singh",
+        "RuhiSingh",
+        "Ruhi Singh Wholesale",
+        "Ruhi Singh Clothing",
+        "Ruhi Clothing",
+        "RuhiClothing",
+        "Ruhi Ladies Wear",
+        "RuhiLadiesWear",
+        "Ruhi Ladies Clothing",
+        "RuhiLadiesClothing",
+        "Ruhi Apparel",
+        "RuhiApparel",
+        "Ruhi Utensils",
+        "RuhiUtensils",
+        "Ruhi Textiles",
+        "RuhiTextiles",
+        "Ruhee",
+        "Ruhee Wholesale",
+        "Ruhee Clothing",
+        "Roohi",
+        "Roohi Wholesale",
+        "Ruhi Wholesale Delhi",
+        "Ruhi Ladies Wear Wholesale",
+        "Ruhi Clothing Wholesale",
+        "Ruhi Bulk Supplier",
+        "Ruhi Wholesale Supplier",
+        "Ruhi T-Shirts Wholesale"
+      ],
+      "publisher": {
+        "@id": "https://ruhiwholesale.store/#business"
+      },
+      "inLanguage": "en-IN"
+    }
+  ]
+}
